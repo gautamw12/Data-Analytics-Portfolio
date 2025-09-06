@@ -18,16 +18,16 @@
 
 - [x] **SQL** - 
   - Nashville Housing Dataset: Data Cleaning <br />
-*Review the SQL Script:* **[HERE](https://github.com/PriyankaJhaTheAnalyst/DataAnalystPortfolioProjects/blob/main/SQL%20-%20Data%20Cleaning.sql)**<br />
+*Review the SQL Script:* **[HERE](https://github.com/gautamw12/Data-Analytics-Portfolio/blob/main/SQL%20-%20Data%20Cleaning.sql)**<br />
 
   - COVID-19 Dataset: Data Exploration  <br />
-*Review the SQL Script:* **[HERE](https://github.com/PriyankaJhaTheAnalyst/DataAnalystPortfolioProjects/blob/main/SQL%20-%20Data%20Exploration.sql)**<br />
+*Review the SQL Script:* **[HERE](https://github.com/gautamw12/Data-Analytics-Portfolio/blob/main/SQL%20-%20Data%20Exploration.sql)**<br />
 
 
 
 - [x] **PostgreSQL** - 
   - Business Intelligence Challenge <br />
-*Review the PostgreSQL Script:* **[HERE](https://github.com/PriyankaJhaTheAnalyst/DataAnalystPortfolioProjects/blob/main/PostgreSQL-BI-CHALLENGE)**<br />
+*Review the PostgreSQL Script:* **[HERE](https://github.com/gautamw12/Data-Analytics-Portfolio/blob/main/PostgreSQL-BI-CHALLENGE)**<br />
 *Review the Google Slides Deck to see the Data Visualizations:* **[HERE](https://drive.google.com/file/d/1JIDnsaLXAx2qnWM86yfrRKLWF5B_ofHU/view?usp=sharing)**<br />
 
 
