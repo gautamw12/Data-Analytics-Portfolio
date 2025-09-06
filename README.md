@@ -12,7 +12,7 @@
 
 - [x] **Hadoop (Hive)** - 
   - NYC Yellow Taxi Records: Data Analysis <br />
-*Review the HiveQL Script:* **[HERE](https://github.com/PriyankaJhaTheAnalyst/DataAnalystPortfolioProjects/blob/main/Hadoop(Hive)%20-%20NYC%20Yellow%20Taxi%20Case%20Study.txt)**<br />
+*Review the HiveQL Script:* **[HERE](https://github.com/gautamw12/Data-Analytics-Portfolio/blob/main/Hadoop(Hive)%20-%20NYC%20Yellow%20Taxi%20Case%20Study.txt)**<br />
 
 
 
