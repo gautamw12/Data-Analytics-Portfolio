@@ -34,7 +34,7 @@
 
 - [x] **Python** - 
   - Movies Industry Dataset: Exploratory Data Analysis Project <br />
-*Read the complete Project Analysis in Markdown:* **[HERE](https://github.com/PriyankaJhaTheAnalyst/Python_MoviesIndustry_EDA/blob/main/README.md)**<br />
+*Read the complete Project Analysis in Markdown:* **[HERE](https://github.com/gautamw12/Python_MoviesIndustry_EDA/blob/main/README.md)**<br />
 
 
 
@@ -55,17 +55,17 @@
 ![GROVER Junior Data Analyst](visuals/GroverDataAnalystDashboard.png)  
 
 
-- Retail Pricing Analytics Dashboard: https://public.tableau.com/app/profile/priyankajhatheanalyst/viz/RetailPriceAnalyticsDashboard/RetailPricingAnalytics#2
+- Retail Pricing Analytics Dashboard: https://public.tableau.com/app/profile/gautamw12/viz/RetailPriceAnalyticsDashboard/RetailPricingAnalytics#2
 
 ![Retail Price Analytics](visuals/RetailPricingAnalytics.png)
 
 
-- E-commerce Sales Dashboard: https://public.tableau.com/app/profile/priyankajhatheanalyst/viz/eCommerceSales_16310934566250/ExploratoryVisualAnalysis
+- E-commerce Sales Dashboard: https://public.tableau.com/app/profile/gautamw12/viz/eCommerceSales_16310934566250/ExploratoryVisualAnalysis
 
 ![E-commerce Sales](visuals/E-commerceRetail.png)
 
 
-- Sales SuperStore Deep Data Analysis (5 Dashboards): https://public.tableau.com/app/profile/priyankajhatheanalyst/viz/SuperStoreDataset5Dashboards/1KPIDashboard 
+- Sales SuperStore Deep Data Analysis (5 Dashboards): https://public.tableau.com/app/profile/gautamw12/viz/SuperStoreDataset5Dashboards/1KPIDashboard 
       
       1 KPI Dashboard
 
